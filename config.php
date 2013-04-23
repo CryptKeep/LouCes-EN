@@ -38,13 +38,13 @@ define('SETTLETTL', 129600);   // 36h time for settle, after that bot delete.. b
 
 // extension cheddarz tools
 //define('EXTENSION_VERSION', '0.9.9'); // deprecated
-//define('EXTENSION_KEY', 'cheddarz');
+//define('EXTENSION_KEY', '');
 
 // ignore
 define('IGNORE_PUNISHTTL', 3600);
 
 // stats Website
-define('STATS_URL', 'cheddarz.uk.to');
+define('STATS_URL', 'ADD LINK TO WEBSITE');
 
 // global chat
 define('GLOBALCHAT', false);
