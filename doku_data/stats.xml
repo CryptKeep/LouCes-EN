@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doku>
+  <key>stats</key>
+  <title>##BOTNAME## is watching you ;)</title>
+  <author>BloodHeart</author>
+  <date>15.07.2012</date>
+  <version>1.6</version>
+  <lang>de</lang>
+  <entry id="1"><![CDATA[##BOTNAME## produce hourly statistics for you.
+
+[b] Respect Secret:[/b] You can your own Statistics and this this everyone arbitrary Player completely simply with [url]http://gf56ts4.deliberate.de/spieler.php?name=BloodHeart[/url] call.
+The web page and the graphics update automatically :)
+
+[u]Features[/u]
+You can view the statistics for 24, 48 and 72 hours, the buttons that are left.  Also is it possible any players on W10, above Centre simply enter in the field. Here an automatic search tool helps the correct spelling of the name.
+
+[u] Commands [/u]
+If cannot remember the link or would like to write him ##BOTNAME## in the Chat:
+[quote][b]!Stats[/b][/quote]
+is the link you with Max stats!
+
+[quote][b]!Stats[/b] [i]Strammer Max[/i][/quote]
+or with the alias;)
+[quote][b]!Stats[/b] [i]Max[/i][/quote]
+write ##BOTNAME## the Link for another player (das [i]Max[/i] works if Strammer Max a [b]alias[/b] [i]max[/i] has set ;;).
+
+[u]Problem?[/u]
+In some browsers the image not actualized or after the opening of the link an old picture will appear. This helps a simple press the F5 key and the browser is recovering ;)
+	
+Give not that no further these links, because problem arises!]]>
+  </entry>	
+</doku>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doku>
+  <key>alias</key>
+  <title>##BOTNAME##  remembers your name!?</title>
+  <author>BloodHeart</author>
+  <date>15.07.2012</date>
+  <version>1.2</version>
+  <lang>de</lang>
+  <entry id="1"><![CDATA[[b]Alias[/b] if the function is.
+
+The ##BOTNAME## who says you one alias/nickname has or is one for you :)
+An alias is to at least two characters long start with a capital letter and is unique.
+	
+So he can name Members remember, ##BOTNAME## then know who is meant when one writes Max or he remembers who is most like him ;)
+
+How does that? Quite simply alias is a command and a question at the same time.
+	
+[u] Questions [/u]
+If only one [quote][b]Alias[/b][/quote]
+type in you get show his own alias list.
+
+If one 
+[quote][b]Alias[/b] [i]Max[/i][/quote]
+type in you get a list of Max and his aliases. If the alias is not proven a response is.
+	
+[u] Commands (with the exclamation mark before that) [b]![/b])[/u]
+
+With
+[quote][b]!Alias[/b] [i]Max[/i][/quote]
+which is given unto you alias Max, only if he is already an error message comes!
+	
+With 
+[quote][b]!DeAlias[/b] [i]Maxi[/i][/quote]
+is a set alias again deleted, at the very useful misspell :)
+
+Oh, as a small tip to the chat not so fully to spamming, you can alias function whisper to the ##BOTNAME##!
+
+Much fun =)
+]]>
+  </entry>
+</doku>

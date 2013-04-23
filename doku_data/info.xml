@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doku>
+  <key>info</key>
+  <title> Who or what is ##BOTNAME##?</title>
+  <author>BloodHeart</author>
+  <date>26.05.2012</date>
+  <version>1.1</version>
+  <lang>de</lang>
+  <entry id="1"><![CDATA[Who is ##BOTNAME##...? This question came up Yes already often :)
+
+[b] ##BOTNAME## is a chatbot or short bot. [/b]
+Bots are text-based dialog systems. They consist of a Texteingabe-and output mask, use the communicate in natural language using the underlying system allows. Technically are bots closer with a full text search engine related to as with artificial or even natural intelligence.
+
+Who wants to read more -> [url] http://en.wikipedia.org/wiki/Chatbot [/url]
+
+The idea is already old and on W1 BloodHeart had run a HanseBot, where he has pushed only the text from A to B in the IRC channel and LoU chat. You could so by the IRC in LoU in type and vice versa. It was exciting when it came to rapid response or coordination.
+
+On W4 in the Alliance, Alisus, the bot has evolved quickly and he was well established in the Alliance - he was always up for a fun good ;)
+
+Of course, more and more gadgets were added, useful and practical. Technically is written ##BOTNAME## in [b] PHP [/b] and runs on an external server as a daemon (program/service) and uses a [b] REDIS [/b]-database. He is modularly expandable, can load new modules on the fly and do actually nix what would do not also a user. Read emails, read the chat, and what to write. This uses the ##BOTNAME## [b] cURL()[/b]. With EA, there is an agreement that bots should not build, that would be disastrous for the game and as long as it is allowed to operate it. Also a bot may not be more than a normal USER traffic to the game server generate. EA reserves also because Yes like at other tweaks at some point you have to say but so long as no plaintiff is STOP
+
+In principle, there are however hardly obstacles automatic activities to program or just respond to actions. It must be always only a nice idea since or a purpose and one that can implement. A fundamental statement of the guidance is that ##BOTNAME## may stay as long as he takes away no place which is required and that he not everything to SPAM
+
+Who so bothers to ##BOTNAME##, should say this and ##BOTNAME## is adapted or removed! I will complete here the documentary world in ##BOTNAME## so that all functions are clear, what good is a bot which nothing useful.. *gg*
+
+Have fun :)) ]]>
+  </entry>
+</doku>

@@ -1,0 +1,8 @@
+/w90/logs/log.txt {
+  daily
+  missingok
+  rotate 7
+  compress
+  delaycompress
+  size 10M
+}

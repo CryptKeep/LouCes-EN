@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doku>
+  <key>Last Seen</key>
+  <title>Anyone who has seen Blood?</title>
+  <author>BloodHeart</author>
+  <date>07.06.2012</date>
+  <version>1.3</version>
+  <lang>DE</lang>
+  <entry id="1"><![CDATA[Ok, probably the easiest command ##BOTNAME## ;)
+
+[quote][b]!Seen[/b] [i]BloodHeart[/i][/quote] has indicates when the last user of the times online or logged into LoU.
+[quote][b]!Chat[/b] [i]BloodHeart[/i][/quote] has shown to the user when the last time you chatted.
+
+This only works internal Ally :(
+]]>
+  </entry>
+</doku>
